@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá eu sou Gabriella Ormond👋
+<
+![Gabriella Ormond GitHub stats](https://github-readme-stats.vercel.app/api?username=gabuu0102&show_icons=true&theme=transparent)
 
-<!--
-**gabuu0102/gabuu0102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologias que uso no meu dia
+<div style="display: inline_block">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+  <div style="display: inline_block">
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+  <div style="display: inline_block">
+  <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
+  </div><br/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudante universitária focada em java e desenvolvimento de jogos, comprometida em buscar aprimoramento.
